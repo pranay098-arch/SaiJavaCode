@@ -22,4 +22,4 @@ james.20 thanks for visiting japur
 just compleed jaipur trip
 >ractice
 <br>
-sun will raise 
+sun will raise on the east 
