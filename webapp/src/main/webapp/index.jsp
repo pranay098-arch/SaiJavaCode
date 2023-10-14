@@ -20,6 +20,7 @@ nk jdcsd
 sai hello
 james.20 thanks for visiting japur
 just compleed jaipur trip
->ractice
+practice
 <br>
 sun will raise on the east 
+:)
