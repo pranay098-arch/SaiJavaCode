@@ -6,7 +6,7 @@
 <h2> successfully completed DevOps Second Project </h2>
 <h2> this new project</h2>
 <h2>this is the best project helps good people</h2>
-:)keep smiling
+:)keep smiling don't cry
 <h3>good work team</h3>
 <h3>Research and development is the beginning of most systems of industrial production. The innovations that result in new products and new processes usually have their roots in research and have followed a path from laboratory idea, through pilot or prototype production and manufacturing start-up, to full-scale production and market introduction.</h3>
 <h2>The functions of a ninja included siege and infiltration, ambush, reconnaissance, espionage, deception, and later bodyguarding and their fighting skills in martial arts, including ninjutsu. </h2>
