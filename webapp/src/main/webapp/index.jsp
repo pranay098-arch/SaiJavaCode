@@ -4,7 +4,7 @@
 <h2> This is what complete End-to-End CI-CD pipeline DevOps Project!!! </h2>
 <h2> We are done with Docker Deployment!!! </h2>
 <h2> successfully completed DevOps Second Project </h2>
-<h2> this new project</h2>>/br>
+<h2> this new project</h2>></br>
 <h2>this is the best project helps good people</h2>
 :)keep smiling don't cry
 <h3>good work team</h3>:?????
